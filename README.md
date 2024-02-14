@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kris.
 - 👀 I've been learning and experimenting with a variety of programming languages and technologies, including C, C++, Qt, Java, and SQL.
-- 🌱 I’m currently learning CSS and HTML.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, jQuery and Angular.
 - 📫 Feel free to reach out to me through my email at kristinakalamukoska11@gmail.com
